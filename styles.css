@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+}
+img#img{
+    border-radius: 50%;
+}
+
+nav{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+/* content */
+main{
+    max-width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 40% 40%;
+    column-gap: 4px;
+    row-gap: 4px;
+    justify-content: center;
+}
+section.kotak-grid{
+    background-color: white;
+    height: max-content;
+}
