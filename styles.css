@@ -15,10 +15,9 @@ main{
     max-width: 90%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 40% 40%;
+    grid-template-columns: 50% 50%;
     column-gap: 4px;
     row-gap: 4px;
-    justify-content: center;
 }
 section.kotak-grid{
     background-color: white;
